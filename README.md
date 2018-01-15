@@ -25,26 +25,8 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 # Özet (Abstract)
  Projemiz,2015 yılının IYPT sorularından biri olan 2 balonla ilgili olacaktır.Birbirine vanayla bağlı 2 balona basınç ile hava verilmesini ve balonların şişmesini gözlemleyerek yapacağımız araştırmalarda,öncelikle bir balonun hacmini yüksek diğerininkisini az tutup bunları vana ile bağlayacağız ve hava akımının yönünü inceleyeceğiz daha sonra sıcak hava ve soğuk havada bunu deneyeceğiz.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Problemimiz hava akımınin neye gore hangi yönde ve miktarda arttığını öğrenmek olacak.Bunun için iki balona bir vanaya (hava akımının geçip geçmemesini sağlamak için)sahibiz.Bağımsız değiskenler balonların hacmi,havanın sıcaklıği,balonların büyüklüğü olabilir,yaptığımız deneylerde gözlemlemekteyiz.Başka deneylerden farklı olarak bütün değiskenlerin deneye etkisini gözlemlemeliyiz hatta balonun yapısıni bile (ne kadar plastik var) incelemeliyiz.
+
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
