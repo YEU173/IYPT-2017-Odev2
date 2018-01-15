@@ -26,7 +26,7 @@ Daha kapsamlı bir ödev için daha önce yapılmış
  Projemiz,2015 yılının IYPT sorularından biri olan 2 balonla ilgili olacaktır.Birbirine vanayla bağlı 2 balona basınç ile hava verilmesini ve balonların şişmesini gözlemleyerek yapacağımız araştırmalarda,öncelikle bir balonun hacmini yüksek diğerininkisini az tutup bunları vana ile bağlayacağız ve hava akımının yönünü inceleyeceğiz daha sonra sıcak hava ve soğuk havada bunu deneyeceğiz.
 # Giriş (Introduction)
 Problemimiz hava akımınin neye gore hangi yönde ve miktarda arttığını öğrenmek olacak.Bunun için iki balona bir vanaya (hava akımının geçip geçmemesini sağlamak için)sahibiz.Bağımsız değiskenler balonların hacmi,havanın sıcaklıği,balonların büyüklüğü olabilir,yaptığımız deneylerde gözlemlemekteyiz.Başka deneylerden farklı olarak bütün değiskenlerin deneye etkisini gözlemlemeliyiz hatta balonun yapısıni bile (ne kadar plastik var) incelemeliyiz.
-
+,http://en.wikipedia.org/wiki/Two-balloon_experiment  ,http://en.wikipedia.org/wiki/Elasticity_(physics) , http://archive.iypt.org/iypt_book/2011_5_Car_Iran_PZN_RMN_HA_v6.pdf  https://circle.ubc.ca/bitstream/handle/2429/7914/08WT2ChiehShanChen.pdf
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
