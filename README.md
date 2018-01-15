@@ -23,7 +23,7 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+ Projemiz,2015 yılının IYPT sorularından biri olan 2 balonla ilgili olacaktır.Birbirine vanayla bağlı 2 balona basınç ile hava verilmesini ve balonların şişmesini gözlemleyerek yapacağımız araştırmalarda,öncelikle bir balonun hacmini yüksek diğerininkisini az tutup bunları vana ile bağlayacağız ve hava akımının yönünü inceleyeceğiz daha sonra sıcak hava ve soğuk havada bunu deneyeceğiz.
 # Giriş (Introduction)
 Bu bölüm; 
 literatür
