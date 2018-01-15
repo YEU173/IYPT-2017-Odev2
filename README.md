@@ -28,35 +28,12 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 Problemimiz hava akımınin neye gore hangi yönde ve miktarda arttığını öğrenmek olacak.Bunun için iki balona bir vanaya (hava akımının geçip geçmemesini sağlamak için)sahibiz.Bağımsız değiskenler balonların hacmi,havanın sıcaklıği,balonların büyüklüğü olabilir,yaptığımız deneylerde gözlemlemekteyiz.Başka deneylerden farklı olarak bütün değiskenlerin deneye etkisini gözlemlemeliyiz hatta balonun yapısıni bile (ne kadar plastik var) incelemeliyiz.
 ,http://en.wikipedia.org/wiki/Two-balloon_experiment  ,http://en.wikipedia.org/wiki/Elasticity_(physics) , http://archive.iypt.org/iypt_book/2011_5_Car_Iran_PZN_RMN_HA_v6.pdf  https://circle.ubc.ca/bitstream/handle/2429/7914/08WT2ChiehShanChen.pdf
 # Materyal ve Yöntem (Experimental Setup)
+Deneyimizin amacı iki farklı hacimlerde aynı balonlar arasındaki hava akımının yönünü belirlemek.Materyallerimiz iki balon ve bir vana.
+Yöntemde ise Öncelikle vanayla vananin çift taraflı girişini sağlayan aparatı bağlıyoruz ve balonları takıyoruz(birisi büyük birisi küçük hacimli)daha sonra vanayı açıyoruz ve hava akımının yönünü inceliyoruz.Tabi bu işlemler boyunca vanamiz kapalı haldedir.Daha sonra vanayı actigimizda hava akiminin küçük hacimli balondan büýük hacimli balona doğru olduğu görülmektedir
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
 
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
 
 # Bulgular (Results)
 Deneyin sonuçlarına baktığımızda,vanayı açtığımızda kücük hacimli balondan büyük hacimli balona hava akımının aktigini görmekteyiz,bunun nedenini daha sonra araştıracak ve hava sıcaklığinin etkisini de gözlemleyeceğiz
